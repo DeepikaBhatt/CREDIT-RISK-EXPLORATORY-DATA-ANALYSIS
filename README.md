@@ -1,4 +1,4 @@
-RISK ANALYTICS IN-BANKING AND FINANCIAL SECTOR
+RISK ANALYTICS IN BANKING AND FINANCIAL SECTOR
 
 The loan providing company has a risk in giving loans to people. This is generally because of two reasons, firstly, people might have insufficient balance in their bank account, and secondly, people don’t have any existent credit history. Because of this, some consumers use it as an advantage by becoming a defaulter. 
 The loan providing company whenever receives an application, they have to decide whether to approve or disapprove the loan application on the basis of consumer’s profile. Basically, there are two types of risks which are related to the decision. Firstly, if the loan applicant is presumed to repay the loan, then not approving the loan application will be a loss to the company. Secondly, if the applicant is not presumed to pay the loan or I would say applicant is most likely to default, then approving the loan application results in the financial loss to the company.
